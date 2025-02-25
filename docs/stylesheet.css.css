@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+    color: fuchsia;
+    font-family: "Comic Sans MS";
+}
+ol{ color: Black;
+font-family:Zapf-Chancery, cursive;
+    
+}
+
+ul{
+    color: gold;
+}
+
+img{
+    height: 400px;
+    border: 3px solid;
+    padding: 1px;
+}
