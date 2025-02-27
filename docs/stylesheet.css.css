@@ -1,7 +1,9 @@
 body{
     background-color: red;
-    color: fuchsia;
+    color: white;
     font-family: "Comic Sans MS";
+}
+span.cool{color:grey;
 }
 ol{ color: Black;
 font-family:Zapf-Chancery, cursive;
@@ -9,7 +11,7 @@ font-family:Zapf-Chancery, cursive;
 }
 
 ul{
-    color: gold;
+    color: white;
 }
 
 img{
